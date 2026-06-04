@@ -60,7 +60,7 @@
 ](https://linkedin.com/in/shivrajpatel321)
 [
 
-![Instagram](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)
-[
+![Instagram](https://shields.io)](https://instagram.com)
+
 
 ](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)

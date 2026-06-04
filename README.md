@@ -60,6 +60,7 @@
 ](https://linkedin.com/in/shivrajpatel321)
 [
 
-![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)
+![Instagram](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)
+[
 
-](https://shivraj-patel.my.canva.site/portfolio)
+](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)

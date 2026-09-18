@@ -60,6 +60,4 @@
 ](https://linkedin.com/in/shivrajpatel321)
 [
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
 ](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)

@@ -58,6 +58,3 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ](https://linkedin.com/in/shivrajpatel321)
-[
-
-](https://www.instagram.com/unfiltered_sean?igsh=NXZtcHMwY2txNW1h)

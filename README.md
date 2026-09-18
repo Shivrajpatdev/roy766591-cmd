@@ -10,7 +10,6 @@ I'm a Computer Science student interested in **Artificial Intelligence, software
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Undergraduate student:** K.K.M. College, Jamui · **2024–2028**
 - 🤖 Interests: **AI/ML, software development, education technology**
 - 🌏 Interested in international education, especially opportunities in **South Korea**
 - 🎤 Interested in leadership, public speaking, event planning, and community management

@@ -77,28 +77,13 @@ More projects and experiments are available in my repositories.
 
 ---
 
-## 🎓 Education
-
-### K.K.M. College, Jamui
-**Undergraduate Student · 2024–2028**
-
-Science background with **Physics, Chemistry & Mathematics**, alongside self-directed learning in technology and AI.
-
-| Academic Level | Result |
-|---|---:|
-| Class 10 | **97%** |
-| Class 11 | **98.5%** |
-| Class 12 | **96%** |
-
----
-
 ## 🌏 International Learning
 
 ### 🇰🇷 Hanyang University Summer School
 Completed the **Hanyang University Summer School** online, strengthening my interest in international education, Korean universities, and cross-cultural learning.
 
 ### 🇰🇷 Korean Language
-Learning Korean and preparing toward **TOPIK**, as part of my long-term interest in studying in South Korea.
+TOPIK I Certified and preparing toward **TOPIK II**, as part of my long-term interest in studying in South Korea.
 
 ---
 
@@ -147,5 +132,5 @@ I want to combine technology and leadership to build solutions that are useful, 
 
 <p align="center">
   <b>Thanks for visiting! ⭐</b><br>
-  Building the future, one project at a time. 🚀
+  Building the future... 🚀
 </p>
